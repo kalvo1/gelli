@@ -27,6 +27,7 @@
         <item>@string/bitrate_320kbps</item>
         <item>@string/bitrate_256kbps</item>
         <item>@string/bitrate_128kbps</item>
+        <item>@string/bitrate_32kbps</item>
     </string-array>
 
     <string-array name="pref_maximum_bitrate_values">
@@ -34,6 +35,7 @@
         <item>320000</item>
         <item>256000</item>
         <item>128000</item>
+        <item>32000</item>
     </string-array>
 
     <string-array name="pref_page_size_titles">
